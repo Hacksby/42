@@ -1,2 +1,5 @@
 .DS_Store
 .gitignore
+a.out
+*2.c
+main.c
