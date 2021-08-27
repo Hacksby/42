@@ -1,0 +1,5 @@
+Credentials cache: API:0995A359-5E8A-451B-883D-20DF9C68ED40
+        Principal: alsilvan@42MADRID.COM
+
+  Issued                Expires               Principal
+Jun 22 17:56:54 2021  Jun 23 03:56:54 2021  krbtgt/42MADRID.COM@42MADRID.COM
